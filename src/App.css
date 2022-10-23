@@ -31,7 +31,9 @@
     animation: logo-spin infinite 20s linear;
   }
 }
-
+.h1:hover{
+  text-shadow: 0 0px 20px #000, 0 2px 30px #c99e2d;
+}
 .card {
   padding: 2em;
 }
